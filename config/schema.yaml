@@ -1,0 +1,7 @@
+columns:
+  - v1: categorical
+  - v2: categorical
+
+categorical_columns:
+  - v1
+  - v2
